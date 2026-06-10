@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is an advanced Java console-based AI Chatbot developed as part of the CodeAlpha Java Programming Internship.
+This is an Java console-based AI Chatbot developed as part of the CodeAlpha Java Programming Internship.
 
 The chatbot interacts with users using predefined conversational responses and provides multiple utility features.
 
